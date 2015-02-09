@@ -3,4 +3,4 @@ notifications:
   hipchat:
     rooms:
       secure: baTPPTX+aIOhFGQzuWGJcdW841W+jyZGQSQ9lJLzPj3x40SBZr1uXn+8H2Zc5Fo4B6+CZM3U/eUiIKjSp4J/Pp49A8J1LrfgiRkQDZiimoh4EAyAwxLlmB7eWl1RCHL9ka/lnAb5pQGaw9Sd41s2qvVjEw/XW+bHkkEWzT4r2HE=
-    template: '@vertica ping'
+    template: 'vertica ping'
