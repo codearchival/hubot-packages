@@ -3,5 +3,7 @@ notifications:
   email: false
   hipchat:
     rooms:
-      secure: pWwSZKQqXa2IFdleb2HsaQIF4vEVvMkYh/6nEd8Is56V/uAcZSPOQ06L5vbh8U3rXbxVks3zYtvo0Wwf0gSr27BWcTbsxSSvY6/XCM0+YxW9uP7rUxMGGkrKIWWbJIDfNeoqRvOhT8qFtGZIQISdyYnY8noZ0Uelg5RepS97WsI=
-    template: '@vertica ping'
+      secure: dUIlXtegER2Pz/71SQ6D6htahaXlKgtqxeNz3SjjzmJREvUfKjD/8knP6tV9w05ks5DH+B31YDMgpP1GH1nFZ7EHKjDcx+FAV9QrBd5PEca3su0O+5QJQp0sIXuBw72TDeWQrr4d9Lp9yHB1Tlc5oI5gNVswmAUTbKLmDBxhgAc=
+    template:
+      - 'Hubot Packages updated! Restarting Hubot'
+      - '@vertica ping'
