@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+- 2.0.0
+- 1.9.3
+- jruby-19mode
+- rbx-2
+notifications:
+  hipchat:
+    rooms:
+      secure: Ns+ni8YPjlNH/plW/Wa44SDu2xbtAWTEm0Wjn2wqEOaTMWp4S65xnSzijcIZpWOf5x8XwT0zX9iSvwiO1a+W/spSv7fzF989wp2qinwToyamLdQ56h69kdOLjVpkfj7pxs1RAIjPBkOwIHL75rs8K7kp6yRVNp0qfsgOAom7rsc=
