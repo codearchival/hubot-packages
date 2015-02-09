@@ -1,5 +1,6 @@
 language: ruby
 notifications:
+  email: false
   hipchat:
     rooms:
       secure: pWwSZKQqXa2IFdleb2HsaQIF4vEVvMkYh/6nEd8Is56V/uAcZSPOQ06L5vbh8U3rXbxVks3zYtvo0Wwf0gSr27BWcTbsxSSvY6/XCM0+YxW9uP7rUxMGGkrKIWWbJIDfNeoqRvOhT8qFtGZIQISdyYnY8noZ0Uelg5RepS97WsI=
